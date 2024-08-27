@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>PaceMaker Frequency Select</title> 
+    </head>
+    <body> <h1>Pacemaker Frequency Select</h1>
+        <br>
+       
+        <br>
+        <h2>Frequency Select:</h2>
+        <a href="/Frequency?freq=0"><button>10Hz</button></a>
+        <a href="/Frequency?freq=1"><button>50Hz</button></a>
+        <a href="/Frequency?freq=2"><button>100Hz</button></a>
+        <a href="/Frequency?freq=3"><button>200Hz</button></a>
+        <a href="/Frequency?freq=4"><button>300Hz</button></a>
+        <a href="/Frequency?freq=5"><button>400Hz</button></a>
+        <a href="/Frequency?freq=6"><button>500Hz</button></a>
+        <a href="/Frequency?freq=7"><button>600Hz</button></a>      
+        <a href="/Frequency?freq=8"><button>700Hz</button></a>
+        <a href="/Frequency?freq=9"><button>800Hz</button></a>
+        <a href="/Frequency?freq=10"><button>900Hz</button></a>
+        <a href="/Frequency?freq=11"><button>1kHz</button></a>
+        <a href="/Frequency?freq=12"><button>1.1kHz</button></a> 
+        <a href="/Frequency?freq=13"><button>1.2kHz</button></a> 
+        <br>
+        <br>
+        <a href="/index.shtml">Refresh</a>
+   </body>
+</html>
