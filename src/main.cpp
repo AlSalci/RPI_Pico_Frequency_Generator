@@ -30,7 +30,7 @@ bool shouldConfigure = false;
 //=============================================================
 
 
-//Memory Storage Funtions Note:MUST BE DECLARED AND DEFINED IN SAME FILE AS MAIN OR FUNCTIONS WILL NOT READ MEMORY CORRECTLY 
+//Memory Storage Funtions 
 bool wifi_info_to_memory();
 void read_wifi_info_memory();
 void print_buf(uint length);
